@@ -1,0 +1,1 @@
+{"version":3,"sources":["AuthContext.js"],"names":["AuthContext"],"mappings":";;AAAA;;AAEA,IAAMA,WAAW,GAAG,2BAApB","sourcesContent":["import { createContext } from \"react\";\r\n\r\nconst AuthContext = createContext();\r\n"],"file":"AuthContext.dev.js"}
